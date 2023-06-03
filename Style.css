@@ -1,0 +1,27 @@
+body {
+    background-color: blueviolet;
+}
+
+.container {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.time {
+
+    font-size: 100px;
+    color: azure;
+}
+
+.butttons button {
+    border: none;
+    padding: 1em 1em;
+    background-color: blanchedalmond;
+    margin: 1em 1em;
+
+
+}
